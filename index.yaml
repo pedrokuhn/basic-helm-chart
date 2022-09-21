@@ -3,52 +3,52 @@ entries:
   what-the-helm:
   - apiVersion: v2
     appVersion: 1.16.4
-    created: "2022-09-21T12:10:18.761027-03:00"
+    created: "2022-09-21T13:49:24.961177-03:00"
     description: A Helm chart for Kubernetes
     digest: 04cf3a62988db20c0c77bb3e7681993bc10b2143312c372b3d1a6f6217d3825b
     name: what-the-helm
     type: application
     urls:
-    - what-the-helm-0.1.4.tgz
+    - https://github.com/pedrokuhn/basic-helm-chart/what-the-helm-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v2
     appVersion: 1.16.3
-    created: "2022-09-21T12:10:18.751907-03:00"
+    created: "2022-09-21T13:49:24.951031-03:00"
     description: A Helm chart for Kubernetes
     digest: f137cbef853d06805efb7f170409e24dbd2a014ace57c86ca26e29257526f416
     name: what-the-helm
     type: application
     urls:
-    - what-the-helm-0.1.3.tgz
+    - https://github.com/pedrokuhn/basic-helm-chart/what-the-helm-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.2
-    created: "2022-09-21T12:10:18.748594-03:00"
+    created: "2022-09-21T13:49:24.94701-03:00"
     description: A Helm chart for Kubernetes
     digest: 219b62749f1256cefc6f8056b374c173c34b1e0ea05eefedfabc5758344d4024
     name: what-the-helm
     type: application
     urls:
-    - what-the-helm-0.1.2.tgz
+    - https://github.com/pedrokuhn/basic-helm-chart/what-the-helm-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.1
-    created: "2022-09-21T12:10:18.746069-03:00"
+    created: "2022-09-21T13:49:24.94304-03:00"
     description: A Helm chart for Kubernetes
     digest: bb4e4882d97c339632f2b65220baa068afb61ad2edd93877d2525690a1f93d24
     name: what-the-helm
     type: application
     urls:
-    - what-the-helm-0.1.1.tgz
+    - https://github.com/pedrokuhn/basic-helm-chart/what-the-helm-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-21T12:10:18.744156-03:00"
+    created: "2022-09-21T13:49:24.939674-03:00"
     description: A Helm chart for Kubernetes
     digest: e1cfe525e1e31ba7b28e57475f4ad3df5c062533f001bdac72d2a849232b1f48
     name: what-the-helm
     type: application
     urls:
-    - what-the-helm-0.1.0.tgz
+    - https://github.com/pedrokuhn/basic-helm-chart/what-the-helm-0.1.0.tgz
     version: 0.1.0
-generated: "2022-09-21T12:10:18.742422-03:00"
+generated: "2022-09-21T13:49:24.934766-03:00"
