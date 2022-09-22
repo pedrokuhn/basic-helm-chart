@@ -3,6 +3,7 @@ entries:
   what-the-helm:
   - apiVersion: v2
     appVersion: 1.16.5
+<<<<<<< HEAD
     created: "2022-09-22T09:33:47.108254-03:00"
     description: A Helm chart for Kubernetes
     digest: 1408c8c05fa0f37b07f1e4a90d6cdc4296a54e24aa0f5148f73bd97eb4f882a8
@@ -82,3 +83,14 @@ entries:
     - https://github.com/pedrokuhn/basic-helm-chart/charts/what-the-helm-0.1.0.tgz
     version: 0.1.0
 generated: "2022-09-22T09:33:47.105776-03:00"
+=======
+    created: "2022-09-21T17:29:34.340760395Z"
+    description: A Helm chart for Kubernetes
+    digest: d0a6a66537e4c1b0b28319e7d7091f8cc41bf049e15c11bde594e08dad55f6b0
+    name: what-the-helm
+    type: application
+    urls:
+    - https://github.com/pedrokuhn/basic-helm-chart/releases/download/what-the-helm-0.1.6/what-the-helm-0.1.6.tgz
+    version: 0.1.6
+generated: "2022-09-21T17:29:34.105258336Z"
+>>>>>>> 92e50ae (Update index.yaml)
