@@ -1,84 +1,124 @@
 apiVersion: v1
 entries:
   what-the-helm:
-  - apiVersion: v2
-    appVersion: 1.16.5
-    created: "2022-09-22T09:33:47.108254-03:00"
-    description: A Helm chart for Kubernetes
-    digest: 1408c8c05fa0f37b07f1e4a90d6cdc4296a54e24aa0f5148f73bd97eb4f882a8
-    name: what-the-helm
-    type: application
-    urls:
-    - https://github.com/pedrokuhn/basic-helm-chart/what-the-helm-0.1.7.tgz
-    version: 0.1.7
-  - apiVersion: v2
-    appVersion: 1.16.5
-    created: "2022-09-22T09:33:47.10753-03:00"
-    description: A Helm chart for Kubernetes
-    digest: 5c5e7674d83a333fe1dacb3f6142ab73b894b5ba34078ee4a7133762e3216361
-    name: what-the-helm
-    type: application
-    urls:
-    - https://github.com/pedrokuhn/basic-helm-chart/what-the-helm-0.1.6.tgz
-    version: 0.1.6
-  - apiVersion: v2
-    appVersion: 1.16.4
-    created: "2022-09-22T09:33:47.159672-03:00"
-    description: A Helm chart for Kubernetes
-    digest: 44f78224fae8e6fddb8e1f6d3bd994d1598c5008b4e2120a297fefe4b40858b0
-    name: what-the-helm
-    type: application
-    urls:
-    - https://github.com/pedrokuhn/basic-helm-chart/charts/what-the-helm-0.1.5.tgz
-    version: 0.1.5
-  - apiVersion: v2
-    appVersion: 1.16.4
-    created: "2022-09-22T09:33:47.135315-03:00"
-    description: A Helm chart for Kubernetes
-    digest: 04cf3a62988db20c0c77bb3e7681993bc10b2143312c372b3d1a6f6217d3825b
-    name: what-the-helm
-    type: application
-    urls:
-    - https://github.com/pedrokuhn/basic-helm-chart/charts/what-the-helm-0.1.4.tgz
-    version: 0.1.4
-  - apiVersion: v2
-    appVersion: 1.16.3
-    created: "2022-09-22T09:33:47.12402-03:00"
-    description: A Helm chart for Kubernetes
-    digest: f137cbef853d06805efb7f170409e24dbd2a014ace57c86ca26e29257526f416
-    name: what-the-helm
-    type: application
-    urls:
-    - https://github.com/pedrokuhn/basic-helm-chart/charts/what-the-helm-0.1.3.tgz
-    version: 0.1.3
-  - apiVersion: v2
-    appVersion: 1.16.2
-    created: "2022-09-22T09:33:47.117498-03:00"
-    description: A Helm chart for Kubernetes
-    digest: 219b62749f1256cefc6f8056b374c173c34b1e0ea05eefedfabc5758344d4024
-    name: what-the-helm
-    type: application
-    urls:
-    - https://github.com/pedrokuhn/basic-helm-chart/charts/what-the-helm-0.1.2.tgz
-    version: 0.1.2
-  - apiVersion: v2
-    appVersion: 1.16.1
-    created: "2022-09-22T09:33:47.11366-03:00"
-    description: A Helm chart for Kubernetes
-    digest: bb4e4882d97c339632f2b65220baa068afb61ad2edd93877d2525690a1f93d24
-    name: what-the-helm
-    type: application
-    urls:
-    - https://github.com/pedrokuhn/basic-helm-chart/charts/what-the-helm-0.1.1.tgz
-    version: 0.1.1
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2022-09-22T09:33:47.110565-03:00"
-    description: A Helm chart for Kubernetes
-    digest: e1cfe525e1e31ba7b28e57475f4ad3df5c062533f001bdac72d2a849232b1f48
-    name: what-the-helm
-    type: application
-    urls:
-    - https://github.com/pedrokuhn/basic-helm-chart/charts/what-the-helm-0.1.0.tgz
-    version: 0.1.0
-generated: "2022-09-22T09:33:47.105776-03:00"
+    - apiVersion: v2
+      appVersion: 1.16.5
+      created: '2022-09-22T10:15:37.687127-03:00'
+      description: A Helm chart for Kubernetes
+      digest: c9f39813620bd5f279c18d31caf0c01533572c3bd0b9f99ce55f9425b1e37b24
+      name: what-the-helm
+      type: application
+      urls:
+        - https://github.com/pedrokuhn/basic-helm-chart/what-the-helm-0.1.8.tgz
+      version: 0.1.8
+    - apiVersion: v2
+      appVersion: 1.16.5
+      created: '2022-09-22T10:15:37.722195-03:00'
+      description: A Helm chart for Kubernetes
+      digest: c9f39813620bd5f279c18d31caf0c01533572c3bd0b9f99ce55f9425b1e37b24
+      name: what-the-helm
+      type: application
+      urls:
+        - https://github.com/pedrokuhn/basic-helm-chart/charts/what-the-helm-0.1.8.tgz
+      version: 0.1.8
+    - apiVersion: v2
+      appVersion: 1.16.5
+      created: '2022-09-22T10:15:37.686445-03:00'
+      description: A Helm chart for Kubernetes
+      digest: 1408c8c05fa0f37b07f1e4a90d6cdc4296a54e24aa0f5148f73bd97eb4f882a8
+      name: what-the-helm
+      type: application
+      urls:
+        - https://github.com/pedrokuhn/basic-helm-chart/what-the-helm-0.1.7.tgz
+      version: 0.1.7
+    - apiVersion: v2
+      appVersion: 1.16.5
+      created: '2022-09-22T10:15:37.721549-03:00'
+      description: A Helm chart for Kubernetes
+      digest: 1408c8c05fa0f37b07f1e4a90d6cdc4296a54e24aa0f5148f73bd97eb4f882a8
+      name: what-the-helm
+      type: application
+      urls:
+        - https://github.com/pedrokuhn/basic-helm-chart/charts/what-the-helm-0.1.7.tgz
+      version: 0.1.7
+    - apiVersion: v2
+      appVersion: 1.16.5
+      created: '2022-09-22T10:15:37.685779-03:00'
+      description: A Helm chart for Kubernetes
+      digest: 5c5e7674d83a333fe1dacb3f6142ab73b894b5ba34078ee4a7133762e3216361
+      name: what-the-helm
+      type: application
+      urls:
+        - https://github.com/pedrokuhn/basic-helm-chart/what-the-helm-0.1.6.tgz
+      version: 0.1.6
+    - apiVersion: v2
+      appVersion: 1.16.5
+      created: '2022-09-22T10:15:37.720913-03:00'
+      description: A Helm chart for Kubernetes
+      digest: 5c5e7674d83a333fe1dacb3f6142ab73b894b5ba34078ee4a7133762e3216361
+      name: what-the-helm
+      type: application
+      urls:
+        - https://github.com/pedrokuhn/basic-helm-chart/charts/what-the-helm-0.1.6.tgz
+      version: 0.1.6
+    - apiVersion: v2
+      appVersion: 1.16.4
+      created: '2022-09-22T10:15:37.72044-03:00'
+      description: A Helm chart for Kubernetes
+      digest: 44f78224fae8e6fddb8e1f6d3bd994d1598c5008b4e2120a297fefe4b40858b0
+      name: what-the-helm
+      type: application
+      urls:
+        - https://github.com/pedrokuhn/basic-helm-chart/charts/what-the-helm-0.1.5.tgz
+      version: 0.1.5
+    - apiVersion: v2
+      appVersion: 1.16.4
+      created: '2022-09-22T10:15:37.703998-03:00'
+      description: A Helm chart for Kubernetes
+      digest: 04cf3a62988db20c0c77bb3e7681993bc10b2143312c372b3d1a6f6217d3825b
+      name: what-the-helm
+      type: application
+      urls:
+        - https://github.com/pedrokuhn/basic-helm-chart/charts/what-the-helm-0.1.4.tgz
+      version: 0.1.4
+    - apiVersion: v2
+      appVersion: 1.16.3
+      created: '2022-09-22T10:15:37.695856-03:00'
+      description: A Helm chart for Kubernetes
+      digest: f137cbef853d06805efb7f170409e24dbd2a014ace57c86ca26e29257526f416
+      name: what-the-helm
+      type: application
+      urls:
+        - https://github.com/pedrokuhn/basic-helm-chart/charts/what-the-helm-0.1.3.tgz
+      version: 0.1.3
+    - apiVersion: v2
+      appVersion: 1.16.2
+      created: '2022-09-22T10:15:37.692759-03:00'
+      description: A Helm chart for Kubernetes
+      digest: 219b62749f1256cefc6f8056b374c173c34b1e0ea05eefedfabc5758344d4024
+      name: what-the-helm
+      type: application
+      urls:
+        - https://github.com/pedrokuhn/basic-helm-chart/charts/what-the-helm-0.1.2.tgz
+      version: 0.1.2
+    - apiVersion: v2
+      appVersion: 1.16.1
+      created: '2022-09-22T10:15:37.690366-03:00'
+      description: A Helm chart for Kubernetes
+      digest: bb4e4882d97c339632f2b65220baa068afb61ad2edd93877d2525690a1f93d24
+      name: what-the-helm
+      type: application
+      urls:
+        - https://github.com/pedrokuhn/basic-helm-chart/charts/what-the-helm-0.1.1.tgz
+      version: 0.1.1
+    - apiVersion: v2
+      appVersion: 1.16.0
+      created: '2022-09-22T10:15:37.688498-03:00'
+      description: A Helm chart for Kubernetes
+      digest: e1cfe525e1e31ba7b28e57475f4ad3df5c062533f001bdac72d2a849232b1f48
+      name: what-the-helm
+      type: application
+      urls:
+        - https://github.com/pedrokuhn/basic-helm-chart/charts/what-the-helm-0.1.0.tgz
+      version: 0.1.0
+generated: '2022-09-22T10:15:37.68514-03:00'
